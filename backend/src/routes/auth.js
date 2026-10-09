@@ -1,3 +1,5 @@
+// Auth Routes - Greencare Connect
+
 /**
  * Authentication Routes
  * Handles user registration and login endpoints, including password hashing,
